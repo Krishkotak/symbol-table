@@ -1,0 +1,17 @@
+begin
+assign a 1
+assign x 99
+assign y 00
+assign b 2 
+begin
+assign a 2 
+print x
+assign c 3
+print b
+begin 
+assign c 4
+print a
+print y
+end
+end
+end
